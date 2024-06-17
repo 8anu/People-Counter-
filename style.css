@@ -1,0 +1,26 @@
+button {
+  display: flex;
+  
+}
+
+.header{
+  display: flex;
+  flex-direction: column;
+  justify-content: centre;
+  align-items: center;
+  color: blue;
+}
+
+.increment-button{
+  background-color: red;
+  color:white;
+  
+
+}
+
+.save-button{
+  background-color: green;
+  color: white;
+ 
+  margin-top: 5px;
+}
